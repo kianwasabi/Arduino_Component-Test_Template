@@ -11,7 +11,3 @@ Done.
 
 ## Built with:
 C++ - Arduino IDE
-
-## Author:
-Kian David Warias
-
